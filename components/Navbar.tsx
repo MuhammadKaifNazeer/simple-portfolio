@@ -21,7 +21,7 @@ const Navbar = () => {
               alt="Kaif"
               width={200}
               height={200}
-              className="rounded-full w-10 h-10 grayscale hover:grayscale-0 transition duration-200 cursor-pointer"
+              className="rounded-full w-10 h-10 hover:grayscale transition duration-200 cursor-pointer"
             />
           </Link>
           {/* github link */}

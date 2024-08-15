@@ -32,7 +32,7 @@ export default function Home() {
                 alt="Kaif"
                 width={600}
                 height={600}
-                className="h-full w-full rounded-[25px] grayscale hover:grayscale-0 transition duration-200 cursor-pointer"
+                className="h-full w-full rounded-[25px] hover:grayscale transition duration-200 cursor-pointer"
               />
             </Link>
           </Card>
