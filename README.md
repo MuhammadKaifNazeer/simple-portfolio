@@ -1,9 +1,7 @@
 # Kaif's Portfolio
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="public/preview-colored.png" alt="Portfolio Preview 1" style="width: 48%; height: auto;" />
-  <img src="public/preview-grayscale.png" alt="Portfolio Preview 2" style="width: 48%; height: auto;" />
-</div>
+
+![Portfolio Preview 1](public/preview-colored.png) ![Portfolio Preview 2](public/preview-grayscale.png)
 
 ## Overview
 
